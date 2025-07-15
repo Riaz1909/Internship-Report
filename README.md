@@ -45,7 +45,7 @@ Hosted using GitHub Pages
 GitHub Repo: Portfolio
 Live Demo: View Portfolio
 
-3. E-Learn Platform
+# 3. E-Learn Platform
 A static multi-page educational platform designed to simulate a basic learning environment.
 
 Pages: Home, Courses, Progress
@@ -59,7 +59,7 @@ Navigation bar and consistent UI across pages
 GitHub Repo: E-learning-platform
 Live Demo: View E-Learn
 
-4. Quiz App (JavaScript + HTML/CSS)
+# 4. Quiz App (JavaScript + HTML/CSS)
 A single-page quiz application that dynamically updates questions and scores.
 
 Built using vanilla JavaScript
@@ -86,4 +86,16 @@ GitHub Pages
 
 Responsive Design Principles
 
+# Learning Outcomes
+Built fully responsive user interfaces
 
+Learned WebSocket integration and real-time UI updates
+
+Practiced dynamic JavaScript logic for quizzes
+
+Gained hands-on experience with Git version control
+
+Deployed live projects with GitHub Pages
+
+# Conclusion
+This internship provided practical exposure to front-end development and deployment workflows. The projects reflect my ability to take ideas from concept to completion and have laid a strong foundation for building future web applications.
